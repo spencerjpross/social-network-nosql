@@ -1,1 +1,1 @@
-# social-network-pwa
+# social-network-nosql
